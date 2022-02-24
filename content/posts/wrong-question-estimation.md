@@ -1,8 +1,7 @@
 +++
-author = "Jlenis"
+author = "Jo"
 title = "Why you should not ask: “Why is this ticket taking so long?”"
 date = "2022-02-22"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "management",
     "estimation",
@@ -13,8 +12,6 @@ categories = [
     "management",
     "agile",
 ]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
 +++
 
 Most developers hate estimations … I’m one of them. It is a frequent practice in the tech industry mainly driven by Project Managers, Business Analysts, Product Owners, Engineering Managers, etc, as they value it because they need a rough estimation in order to create a plausible roadmap. However working on estimated tasks has a nasty side effect - people start saying things like:
@@ -25,12 +22,14 @@ Guess what? Most devs get anxious and stressed when they are asked these questio
 
 - “This task takes X and YOU are taking longer than expected to finish it."
 
-If the devs in your team are prone to experience Impostor syndrome, I can assure you that after hearing that question it just skyrockets. In other words, developers feel you are not trusting in their capability to finish the task. And worst of all you are hurting the culture.
-The question itself hides some fallacies that are important to deconstruct. First, that the estimation is accurate (which is seldom the case) and second that everyone on the team will take exactly the same time in finishing the task (there are multiple paths to reach a solution)
+If the devs in your team are prone to experience [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome), I can assure you that after hearing that question it just skyrockets. In other words, developers feel you are not trusting in their capability to finish the task. And worst of all you are hurting the culture.
+The question itself hides some fallacies that are important to deconstruct. First, that the estimation is accurate (which is seldom the case, as humans are inherently [bad at estimating](https://conference.usu.edu/SYSTEM/Uploads/pdfs/14612_1900DanGalorath.pdf)) and second that everyone on the team will take exactly the same time in finishing the task (there are multiple paths to reach a solution)
 So how can we challenge the time we are dedicating to a task? We need to revisit the wording but first It is important to acknowledge a few things:
-You need to truly believe your team is doing their best and trying to finish tasks as soon as possible
-The time to finish a task may or not match with an estimation. The estimation is not the source of truth
-Words matter
+
+1. You need to truly believe your team is doing their best and trying to finish tasks as soon as possible
+2. The time to finish a task may or not match with an estimation. The estimation is not the source of truth
+3. Words matter
+
 Taking this into account, when you communicate your concerns (we all know time is a limited resource), make sure you recognize that now, there is more information about the task and everyone has realized it is bigger (not that it is taking longer) and that probably has been misestimated. The concern shouldn’t be “Can you do it faster?” but rather “Can we break down the task so we can deliver value sooner?”  Something that could sound like:
 
 - ”This task is more complex than expected (that means it is not on you, anyone will take longer to finish it). Do you think we can split it?“
