@@ -14,17 +14,20 @@ categories = [
 ]
 +++
 
-Most developers hate estimations … I’m one of them. It is a frequent practice in the tech industry mainly driven by Project Managers, Business Analysts, Product Owners, Engineering Managers, etc, as they value it because they need a rough estimation in order to create a plausible roadmap. However working on estimated tasks has a nasty side effect - people start saying things like:
+Most developers hate estimations … I’m one of them. It is a frequent practice in the tech industry mainly driven by Project Managers, Business Analysts, Product Owners, Engineering Managers, etc. They value it because they need a rough estimation in order to create a plausible roadmap. However working on estimated tasks has a nasty side effect - people start saying things like:
 <!--more-->
-- “It’s been 3 days already, this is a 1 day task. “Why is this ticket taking so long?” “Why isn't it done by now?”.
+- “It’s been 3 days already, this is a 1 day task
+- “Why is this ticket taking so long?”
+- “Why isn't it done by now?”
 
-Guess what? Most devs get anxious and stressed when they are asked these questions and it doesn't matter the seniority. Why is it so? Well, basically what implicitly is being said is:
+Guess what? Most devs get anxious and stressed when they are asked these questions and it doesn’t matter the seniority. Why is it so? Well, what implicitly is being said is:
 
 - “This task takes X and YOU are taking longer than expected to finish it."
 
 If the devs in your team are prone to experience [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome), I can assure you that after hearing that question it just skyrockets. In other words, developers feel you are not trusting in their capability to finish the task. **And worst of all you are hurting the culture**.
 The question itself hides some fallacies that are important to deconstruct. First, that the estimation is accurate (which is seldom the case, as humans are inherently [bad at estimating](https://conference.usu.edu/SYSTEM/Uploads/pdfs/14612_1900DanGalorath.pdf)) and second that everyone on the team will take exactly the same time in finishing the task (there are multiple paths to reach a solution).
-So how can we challenge the time we are dedicating to a task? We need to revisit the wording but first It is important to acknowledge a few things:
+
+So how can we challenge the time we are dedicating to a task? We need to revisit the wording but first it is important to acknowledge a few things:
 
 1. You need to truly believe your team is doing their best and trying to finish tasks as soon as possible
 2. The time to finish a task may or not match with an estimation. The estimation is not the source of truth
@@ -34,5 +37,5 @@ Taking this into account, when you communicate your concerns (we all know time i
 
 - ”This task is more complex than expected (that means it is not on you, anyone will take longer to finish it). Do you think we can split it?“
 
-Learning from misestimated tasks can also help to better assess complex tasks. You can reflect with your team if there was something you missed and how you can prevent it from happening in the future, although bear in mind that unkown unkowns are quite hard to predict. Nevertheless, identifying known unkowns can be a good exercise to calibrate the confidence on the estimation by checking if there is some part of the task that the team has never done before, and can be a source of risk.
-A healthy culture is built on a foundation of trust. Asking why a task is not done in an estimated time can be an oversimplified question that ignores the complexity involved in creating software and by doing so it can make the people addressing the task feeling that their capability is in doubt. In most cases **tasks don’t take longer than expected, tasks are more complex than expected**. Assuming misestimation and learning from it can provide insightful information to increase the confidence in next estimations, and also actively nourish a trust culture.
+Learning from misestimated tasks can also help to better assess complex tasks. You can reflect with your team if there was something you missed and how you can prevent it from happening in the future, although bear in mind that unknown unknowns are quite hard to predict. Nevertheless, identifying known unknowns can be a good exercise to calibrate the confidence on the estimation by checking if part of the task is new to the team, and can be a source of risk.
+A healthy culture is built on a foundation of trust. Asking why a task is not done in an estimated time can be an oversimplified question that ignores the complexity of creating software and by doing so it causes people addressing the task to feel that their capability is in doubt. In most cases **tasks don’t take longer than expected, tasks are more complex than expected**. Assuming misestimation and learning from it can provide insightful information to increase the confidence in next estimations, and also actively nourish a trust culture.
